@@ -1,6 +1,6 @@
 const pages = [
     {
-      name: "Principal",
+      name: "Home",
       url: "/index.html",
       active: false,
       visible: true,
